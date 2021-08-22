@@ -1,5 +1,6 @@
 ## I 🖤 code
 
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=kotalilyy&theme=radical&show_icons=true)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
